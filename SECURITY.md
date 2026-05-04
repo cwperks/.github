@@ -23,6 +23,7 @@ SRT will address reported issues on a best effort basis, prioritizing them based
 | Shikhar Jain             | [shikharj05](https://github.com/shikharj05)                 | Amazon      |
 | Gulshan Kumar            | [kumargu](https://github.com/kumargu)                       | Amazon      |
 | Nils Bandener            | [nibix](https://github.com/nibix)                           | Eliatra     |
+| Nagaraj G                | [nagarajg17](https://github.com/nagarajg17)                 | Amazon      |
 
 ### Emeritus
 
